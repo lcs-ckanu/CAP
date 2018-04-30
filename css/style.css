@@ -1,3 +1,18 @@
 body {
   background-color: BurlyWood;
 }
+
+
+h2, ul {
+  font-family: "Trebuchet MS Bold", Futura, sans-serif;
+}
+
+p {
+  font-family: "Trebuchet MS Bold", Futura, sans-serif;
+  font-weight: normal;
+}
+
+em {
+  font-style: normal;
+  font-weight: bold;
+}
