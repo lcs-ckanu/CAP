@@ -16,3 +16,13 @@ em {
   font-style: normal;
   font-weight: bold;
 }
+
+#sides {
+  background-color: black;
+  color: white;
+  padding-left: 2em;
+}
+
+.price {
+  font-weight: normal;
+}
