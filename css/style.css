@@ -1,5 +1,6 @@
 body {
-  background-color: BurlyWood;
+  background-color: white;
+  padding-left: 4em;
 }
 
 
@@ -7,9 +8,12 @@ h2, ul {
   font-family: "Trebuchet MS Bold", Futura, sans-serif;
 }
 
-p {
+p, tr {
   font-family: "Trebuchet MS Bold", Futura, sans-serif;
   font-weight: normal;
+}
+ul{
+list-style-type: none;
 }
 
 em {
@@ -17,7 +21,7 @@ em {
   font-weight: bold;
 }
 
-#sides {
+ #salads, #ploughmanslunch, #burgers, #beverages, #whitewine, #redwine, #specialtycocktails {
   background-color: black;
   color: white;
   padding-left: 2em;
