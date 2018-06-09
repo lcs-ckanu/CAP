@@ -3,7 +3,9 @@ body {
   padding-left: 4em;
 }
 
-
+h2{
+  font-size: 350%;
+}
 h2, ul {
   font-family: "Trebuchet MS Bold", Futura, sans-serif;
 }
